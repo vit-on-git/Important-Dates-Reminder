@@ -2,9 +2,9 @@
 The Streamlit app "Monthly Dates Reminder" helps users manage and filter important dates from an uploaded Excel file. Users can select a sheet, input a month (1-12), and filter dates from columns like BirthDay, Anniversary, and OtherDate. The filtered results are displayed and can be downloaded as a CSV file.
 
 # Link
+https://monthly-dates-reminder-xpauqykuurhjvgiczfxuvf.streamlit.app/
 
-
-# Important Dates Reminder App
+# Monthly Dates Reminder App
 
 A Streamlit web application to help users manage and filter important dates from an Excel file. Users can upload an Excel file, select a sheet, and filter dates (e.g., birthdays, anniversaries) by month. The filtered results can be downloaded as a CSV file.
 
@@ -33,7 +33,7 @@ A Streamlit web application to help users manage and filter important dates from
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/important-dates-reminder.git
+   git clone https://github.com/your-username/monthly-dates-reminder.git
 
 ## Navigate to the project directory:
 
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## Run the Streamlit app:
 
-streamlit run st_app4.py
+streamlit run st_app_4.py
 
 ## Example Excel File Format
 
